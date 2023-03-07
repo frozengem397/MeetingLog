@@ -1,10 +1,7 @@
-# MeetingLog
-a WebPage that allows user to save meeting dialogue with their name, date, priority, it use ReactJS as front end, C# ASP.net web api as backend, it uses the RESTful web services.
-fetch API using react buid-in hook. Entityframework to migrate data to database
 
-# Project Title
+# Project Title 
 
-Meeting Log record
+Meeting Log record (Full Stack Project)
 
 ## Description
 
